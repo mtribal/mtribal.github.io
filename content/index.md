@@ -1,5 +1,5 @@
 ---
-title: Welcome to mtribal.github.io
+title: Welcome to my blog
 ---
 
 This is a blank Quartz installation.
