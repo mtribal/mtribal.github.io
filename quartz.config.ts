@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
-    locale: "es-ES",
+    locale: "en-US",
     baseUrl: "mtribal.github.io/my-blog",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
