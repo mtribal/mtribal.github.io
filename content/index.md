@@ -1,5 +1,5 @@
 ---
-title: Hello... blog
+title: hello... blog
 language: english
 ---
 Welcome to the start of my blog! If you don't know already, my name is Miguel Ángel Tribaldos and I'm a computer engineer.
